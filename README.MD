@@ -12,7 +12,7 @@ Ce script vous permet de transformer n'importe quel fichier exécutable en une c
 
 1. Lancez le script depuis votre terminal :
    ```bash
-   ./setup_convert_to_md.sh
+   ./convertissor.sh
    ```
 
 2. Répondez aux questions posées :
